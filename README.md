@@ -12,7 +12,7 @@ OOS (Object Oriented Simple) is a made-up language used for the purposes of lear
 - Changed grammar `oos.g4`, with added actions and couple of fixes
 - A Python file containing new Listener `myoosListener.py`
 - A Python file that runs all ANTLR related operations, etc. `main.py`
-- Test files: `shape.oos` (as provided), `complex.oos`.
+- Test files: `shape.oos`, `complex.oos`.
 - A picture of a runtime example, `runtime_example.png`
 
 ## Runtime environment info
